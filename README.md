@@ -1,0 +1,4 @@
+eggbox
+======
+
+Starter Wordpress Theme
